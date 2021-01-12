@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Imfuyo</string>
+    <string name="facebook_app_id">445916403481236</string>
+    <string name="fb_login_protocol_scheme">fb445916403481236</string>
+</resources>
